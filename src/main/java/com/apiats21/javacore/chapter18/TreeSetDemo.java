@@ -1,4 +1,4 @@
-package main.java.com.apiats21.javacore.Chapter18;
+package main.java.com.apiats21.javacore.chapter18;
 
 import java.util.TreeSet;
 

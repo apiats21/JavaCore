@@ -1,7 +1,5 @@
-package main.java.com.apiats21.javacore.Chapter18;
+package main.java.com.apiats21.javacore.chapter18;
 // Продемострировать преминение некоторых методов из класса Arrays
-
-import main.java.com.apiats21.javacore.chapter03.Array;
 
 import java.util.Arrays;
 

@@ -1,6 +1,5 @@
-package main.java.com.apiats21.javacore.Chapter18;
+package main.java.com.apiats21.javacore.chapter18;
 
-import java.util.Enumeration;
 import java.util.Hashtable;
 import java.util.Iterator;
 import java.util.Set;

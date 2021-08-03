@@ -1,4 +1,4 @@
-package main.java.com.apiats21.javacore.Chapter18;
+package main.java.com.apiats21.javacore.chapter18;
 // Использовать специальный компоратор
 
 import java.util.Comparator;
