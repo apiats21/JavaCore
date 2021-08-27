@@ -36,8 +36,5 @@ public class StreamDemo10 {
         // а теперь воспользоваться итератором splitItr
         System.out.println("Результат выводимый итератором splitItr: ");
         splitItr.forEachRemaining(System.out::println);
-
-
-
     }
 }
