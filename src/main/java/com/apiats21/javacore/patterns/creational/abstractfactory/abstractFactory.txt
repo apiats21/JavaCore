@@ -1,0 +1,10 @@
+What is AF:
+It is like a factory, but everything is encapsulated.
+The method that orders the subject.
+The factories that build the object
+The final objects
+
+What can you do with AF:
+Allows you to create families of related objects without specifying a concrete class.
+Use when you have many objects that can be added, of changed dynamically during runtime.
+The bad: Things can get complicated.

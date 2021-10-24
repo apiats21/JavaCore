@@ -1,0 +1,1 @@
+Add functionality to class Printer{} at runtime by adding method DecoratorGreeting() {print("Hello")}.

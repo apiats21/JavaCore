@@ -1,0 +1,1 @@
+Make a counter counting how many times object of class Singleton was called.

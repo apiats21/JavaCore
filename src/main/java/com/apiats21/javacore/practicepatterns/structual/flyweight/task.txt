@@ -1,0 +1,1 @@
+Reduce a number of created similar in some way objects using flyweight design pattern.

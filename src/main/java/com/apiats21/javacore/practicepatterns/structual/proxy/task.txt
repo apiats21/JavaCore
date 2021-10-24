@@ -1,0 +1,1 @@
+Create a proxy class to control access to a Movie class object.

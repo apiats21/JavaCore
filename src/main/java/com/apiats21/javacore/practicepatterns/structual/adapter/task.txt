@@ -1,0 +1,2 @@
+Class client using operating(), controlling(), staging() methods.
+Create an adapter to running(), operating(), parking() methods.

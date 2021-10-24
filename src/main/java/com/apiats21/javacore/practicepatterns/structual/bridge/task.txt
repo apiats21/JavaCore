@@ -1,0 +1,1 @@
+Separate abstract class Movie{} from interface Rating{} to create complex objects.
