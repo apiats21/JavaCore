@@ -1,0 +1,1 @@
+Two classes have redundant code. Create a template abstract class to avoid redundancy in the program.

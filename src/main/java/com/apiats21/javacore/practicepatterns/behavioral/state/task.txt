@@ -1,0 +1,2 @@
+Write a program that will allow an object to change behavior when its internal state changes. An object of the Player
+class will shuffle objects Song1, Song2 and Song3 in Playlist.

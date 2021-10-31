@@ -1,0 +1,2 @@
+Write a program where using design pattern where list of code is executed and a specific Command to run when
+execute() is called on 1 of these encapsulated(hidden) Objects.

@@ -1,4 +1,4 @@
-package main.java.com.apiats21.javacore.patterns.behavioral;
+package main.java.com.apiats21.javacore.patterns.behavioral.chainOfResponsibility;
 
 public class Client {
     public static void main(String[] args) {

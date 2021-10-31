@@ -1,0 +1,1 @@
+Write a program where behaviour of multiple objects will depend on state of one object using observer pattern.

@@ -1,0 +1,1 @@
+Create simple chat app with only one User class to demonstrate mediator pattern.

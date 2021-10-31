@@ -1,0 +1,1 @@
+Create an iterator using iterator pattern to print all elements in array of Strings.
